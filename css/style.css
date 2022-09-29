@@ -18,4 +18,9 @@ header{
     width: 40px;
 }
 
-
+/* JUMBOTRON */
+.ms_bg-image{
+    height: 600px;
+    width: 100%;
+    background-image: url(/img/jumbo-bg.png);
+}
