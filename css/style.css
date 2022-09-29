@@ -5,11 +5,16 @@ img{
 
 /* HEADER */
 header{
-    height: 100px;
+    height: 80px;
 }
 
 .header-up{
     background-color: black;
-    height: 50px;
+    height: 40px;
+}
+
+.header-up img{
+    height: 40px;
+    width: 40px;
 }
 
