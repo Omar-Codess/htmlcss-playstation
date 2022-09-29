@@ -23,4 +23,11 @@ header{
     height: 600px;
     width: 100%;
     background-image: url(/img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ms_450px{
+    width: 450px;
 }
