@@ -1,3 +1,15 @@
-body{
-    background-color: brown;
+/* COMMON */
+img{
+    max-width: 100%;
 }
+
+/* HEADER */
+header{
+    height: 100px;
+}
+
+.header-up{
+    background-color: black;
+    height: 50px;
+}
+
