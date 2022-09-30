@@ -31,3 +31,13 @@ header{
 .ms_450px{
     width: 450px;
 }
+
+/* SECTION 4 */
+.ms_bg-image-sec-4{
+    min-height: 600px;
+    width: 100%;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
