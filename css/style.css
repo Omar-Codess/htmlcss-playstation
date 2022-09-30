@@ -3,6 +3,9 @@ img{
     max-width: 100%;
 }
 
+ul{
+    list-style-type: none;
+}
 /* HEADER */
 header{
     height: 80px;
@@ -14,8 +17,7 @@ header{
 }
 
 .header-up img{
-    height: 40px;
-    width: 40px;
+    width: 50px;
 }
 
 /* JUMBOTRON */
@@ -50,4 +52,13 @@ header{
 /* SECTION 9 */
 .ms_bg-blue{
     background-color: rgb(22, 28, 59);
+}
+
+/* FOOTER */
+.ms_bg-light-blue{
+    background-color: rgb(0, 67, 156);
+}
+
+.footer-sie{
+    width: 150px;
 }
