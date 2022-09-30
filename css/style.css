@@ -41,3 +41,8 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+/* SECTION 7 */
+.ms_bg-grey{
+    background-color: rgb(190, 188, 187);
+}
