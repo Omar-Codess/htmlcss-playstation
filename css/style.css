@@ -44,6 +44,12 @@ header{
     background-repeat: no-repeat;
 }
 
+/* SECTION 5 */
+.ms_bg-dark{
+    background-color: rgb(31, 31, 31);
+}
+
+
 /* SECTION 7 */
 .ms_bg-grey{
     background-color: rgb(190, 188, 187);
@@ -52,6 +58,7 @@ header{
 /* SECTION 9 */
 .ms_bg-blue{
     background-color: rgb(22, 28, 59);
+    min-height: 300px;
 }
 
 /* FOOTER */
