@@ -20,7 +20,7 @@ header{
 
 /* JUMBOTRON */
 .ms_bg-image{
-    height: 600px;
+    min-height: 600px;
     width: 100%;
     background-image: url(../img/jumbo-bg.png);
     background-position: center;
